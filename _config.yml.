@@ -1,0 +1,4 @@
+theme:minima
+tittle:"MyGiHub Pages site"
+description:"Welcome to my personal website"
+plugins: -jekyll-seo-tag
